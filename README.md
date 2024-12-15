@@ -33,6 +33,7 @@ It is said that the average peak age for world-class athletics is from 25 to 27 
 * The dataset spans 1990 to 2019, limiting analysis of historical trends. Including data from the 1980s would provide a more accurate view of player longevity over time.
 
 **Analysis:**
+{% include_relative plot_visualization.html %}
 **Age and Rankings Correlation**
 
 * Visualized age trends of players who reached career-high rankings (Top 10\) over the age of 28\.  
